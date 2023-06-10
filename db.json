@@ -1,0 +1,26 @@
+{
+  "coursesList": [
+    {
+      "courseName": "Angular",
+      "description": "Angular description.",
+      "date": "2023-06-08T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "courseName": "React",
+      "description": "React description.",
+      "date": "2023-06-08T21:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
